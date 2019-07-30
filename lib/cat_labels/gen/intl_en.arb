@@ -1,0 +1,8 @@
+{
+  "@@last_modified": "2019-07-30T09:00:33.801344",
+  "meow": "Meow!",
+  "@meow": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "@@last_modified": "2019-07-30T09:00:51.554674",
+  "bark": "Woof!",
+  "@bark": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
